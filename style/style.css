@@ -116,6 +116,27 @@ li{
     gap: 30px;
     }
 
+    
+
+    .carroselparado{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+
     .carrosel{
-        margin-top: 100px;
+        position: absolute;
+        
+        width: 450px;
+        z-index: -1;
+        top: 30px;
+       
+        
+    }
+
+    .carrosel img{
+        object-fit: cover;
+        height: 280px;
+        
     }
