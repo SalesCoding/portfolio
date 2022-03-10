@@ -172,3 +172,8 @@ li{
         margin-top: -500px;
         flex-direction: column;
     }
+
+    .fotinhas{
+        background-color: aliceblue;
+        align-items: initial;
+    }
