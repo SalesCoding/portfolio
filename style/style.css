@@ -5,6 +5,7 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
+    
    
 }
 
@@ -60,7 +61,8 @@ li{
         font-size: 56px;
         line-height: 56px;
         font-family: 'Poppins', sans-serif;
-        color: rgb(	127, 255, 212)
+        color: rgb(	127, 255, 212);
+      
         
     }
 
@@ -72,6 +74,7 @@ li{
         line-height: 20px;
         max-width: 500px;
         font-family:'Poppins', sans-serif;
+        margin-top: 100px;
     }
 
     img{
@@ -82,6 +85,7 @@ li{
         display: flex;
         flex-direction: column;
         width: 70%;
+        margin-top: 150px;
     }
 
     form [type="submit"]{
@@ -160,4 +164,11 @@ li{
 
     .meusprojetos{
         color: rgb(132, 13, 201);
+    }
+
+    #msk1{
+        padding: 500px;
+        text-align: center;
+        margin-top: -500px;
+        flex-direction: column;
     }
