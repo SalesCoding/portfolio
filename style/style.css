@@ -173,7 +173,48 @@ li{
         flex-direction: column;
     }
 
-    .fotinhas{
-        background-color: aliceblue;
-        align-items: initial;
+    .fotos{
+        margin-top: 100px;
+        background-color: rgb(34,34,34);
+        padding: 100px;
     }
+
+    .minhasskills{
+        margin-top: 150px;
+        padding-left: 400px;
+    }
+
+   .html{
+    margin-top: 1px;
+    width: 140px;
+    height: 146px;
+    
+   }
+
+   .css{
+    width: 170px;
+    height: 170px;
+    
+}
+
+.boostrap{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.java{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.fotos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.divfotos{
+    padding: 30px;
+}
