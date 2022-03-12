@@ -218,3 +218,33 @@ li{
 .divfotos{
     padding: 30px;
 }
+
+
+.html:hover{
+    
+        transform: translateY(-60%);
+        
+      
+}
+
+.css:hover{
+    
+    transform: translateY(-60%);
+    
+  
+}
+
+
+.boostrap:hover{
+    
+    transform: translateY(-60%);
+    
+  
+}
+
+.java:hover{
+    
+    transform: translateY(-60%);
+    
+  
+}
